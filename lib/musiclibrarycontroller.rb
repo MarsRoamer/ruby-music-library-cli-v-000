@@ -23,7 +23,7 @@ class MusicLibraryController
     end
     while input != 'exit'
       input = gets
-    
+
     end
 
   end
